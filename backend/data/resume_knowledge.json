@@ -1,0 +1,148 @@
+{
+  "personal_info": {
+    "name": "Viharahamed M",
+    "email": "viharahamed2905@gmail.com",
+    "phone": "+91 9080670027",
+    "linkedin": "linkedin.com/in/viharahamed-m",
+    "github": "github.com/Viharahamed",
+    "location": "Tamil Nadu, India"
+  },
+  "education": {
+    "current": {
+      "degree": "Bachelor of Technology - Information Technology",
+      "institution": "Sri Ramakrishna Engineering College",
+      "location": "Coimbatore, Tamil Nadu",
+      "cgpa": "7.64",
+      "upto_semester": "5th Sem",
+      "expected_graduation": "2027"
+    },
+    "hsc": {
+      "year": "2023",
+      "institution": "Sri Viswabharathi Matric Hr. Sec School",
+      "location": "Dharmapuri, Tamil Nadu",
+      "percentage": "89.5%"
+    },
+    "sslc": {
+      "year": "2021",
+      "institution": "Sri Viswabharathi Matric Hr. Sec School",
+      "location": "Dharmapuri, Tamil Nadu"
+    }
+  },
+  "projects": [
+    {
+      "name": "EVTracking",
+      "type": "Real-time IoT Application",
+      "description": "Developed a real-time Electric Vehicle Tracking application leveraging Next.js for the frontend and Express.js for the backend services. Focused on low-latency data processing, real-time communication and scalable full stack IoT architecture for multiple vehicle support and mobile integration.",
+      "image_url": "/srec.jpeg",
+      "technologies": [
+        "SIM7600 4G/GPS module",
+        "Node.js",
+        "Socket.IO",
+        "React.js",
+        "Express.js"
+      ],
+      "highlights": [
+        "Real-time vehicle tracking",
+        "Low-latency data processing",
+        "Scalable IoT architecture",
+        "Mobile integration support"
+      ]
+    },
+    {
+      "name": "Automated Social Media Extraction and Digital Investigations",
+      "type": "Data Analytics & AI System",
+      "description": "Developed an automated system that extracts and analyzes data from Instagram public profiles to aid digital investigations. Using NLP and CNN, it performs sentiment analysis on text and images to evaluate risk levels. It collects details from the profiles storing results in structured JSON files.",
+      "image_url": "/insta.jpg",
+      "technologies": [
+        "NLP",
+        "CNN",
+        "JSON",
+        "Instaloader",
+        "Transformers",
+        "TensorFlow"
+      ],
+      "highlights": [
+        "Automated data extraction from Instagram",
+        "Sentiment analysis on text and images",
+        "Risk level evaluation",
+        "Digital investigation support",
+        "Structured data storage"
+      ]
+    }
+  ],
+  "internship": {
+    "company": "Nexoris Solutions",
+    "location": "Coimbatore",
+    "period": "June 2025",
+    "role": "Data Analytics Intern",
+    "responsibilities": [
+      "Developed a data analytics dashboard for visualization of data with clean design",
+      "Integrated an AI-driven query assistant capable of understanding user questions and generating relevant code-based or analytical responses"
+    ],
+    "technologies_used": [
+      "Data Visualization",
+      "AI Integration",
+      "Dashboard Development"
+    ]
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "C",
+      "Java"
+    ],
+    "web_technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "Express.js"
+    ],
+    "databases": [
+      "SQL",
+      "MongoDB"
+    ]
+  },
+  "certifications": [
+    {
+      "name": "NPTEL: Introduction to Industry 4.0 and Industrial Internet of Things",
+      "issuer": "NPTEL"
+    },
+    {
+      "name": "NPTEL: Social Networks",
+      "issuer": "NPTEL"
+    }
+  ],
+  "domain_expertise": [
+    "Full Stack Development",
+    "IoT Applications",
+    "Real-time Systems",
+    "Data Analytics",
+    "AI/ML Integration",
+    "Digital Investigations",
+    "Web Development"
+  ],
+  "key_strengths": [
+    "Real-time application development",
+    "Full stack IoT architecture",
+    "AI-driven analytics",
+    "Low-latency system design",
+    "Data visualization",
+    "Problem-solving mindset"
+  ],
+  "conversation_context": {
+    "greeting_info": "I'm Viharahamed M, a final-year Information Technology student at Sri Ramakrishna Engineering College with a CGPA of 7.64. I specialize in full-stack development, IoT applications, and AI-driven analytics.",
+    "project_summary": "I've built two major projects: EVTracking (a real-time IoT vehicle tracking system) and an Automated Social Media Analysis tool for digital investigations using NLP and CNN.",
+    "internship_summary": "I completed an internship at Nexoris Solutions where I developed data analytics dashboards and integrated AI-driven query assistants.",
+    "skills_summary": "I'm proficient in JavaScript, React.js, Node.js, Express.js, and have experience with IoT hardware (SIM7600 modules), databases (SQL, MongoDB), and AI/ML technologies (NLP, CNN, TensorFlow).",
+    "contact_preference": "Feel free to reach out via email at viharahamed2905@gmail.com or connect with me on LinkedIn."
+  },
+  "faq_responses": {
+    "about_me": "I'm Viharahamed M, a passionate Information Technology student specializing in full-stack development and IoT solutions. I love building real-time applications and integrating AI into practical systems.",
+    "education_background": "I'm currently pursuing my B.Tech in Information Technology from Sri Ramakrishna Engineering College with a CGPA of 7.64. I completed my HSC with 89.5% from Sri Viswabharathi Matric School.",
+    "main_projects": "My flagship projects include EVTracking - a real-time vehicle tracking system using IoT and web technologies, and an Automated Social Media Analysis tool that uses AI to assist in digital investigations.",
+    "technical_expertise": "I specialize in full-stack JavaScript development (React.js, Node.js, Express.js), IoT systems, real-time communication (Socket.IO), and AI/ML integration (NLP, CNN, TensorFlow).",
+    "work_experience": "I interned at Nexoris Solutions in Coimbatore where I developed data analytics dashboards and built AI-driven query assistants for data analysis.",
+    "contact_methods": "You can reach me at viharahamed2905@gmail.com, call me at +91 9080670027, or connect via LinkedIn at linkedin.com/in/viharahamed-m"
+  }
+}

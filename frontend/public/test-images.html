@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Project Images</title>
+    <style>
+        body {
+            background: #1e293b;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 2rem;
+        }
+        .test-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .image-test {
+            background: #334155;
+            padding: 2rem;
+            margin: 1rem 0;
+            border-radius: 8px;
+        }
+        img {
+            width: 200px;
+            height: 200px;
+            object-fit: contain;
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Project Images Test</h1>
+        
+        <div class="image-test">
+            <h2>SREC Logo</h2>
+            <p>Path: /srec_logo.svg</p>
+            <img src="/srec_logo.svg" alt="SREC Logo">
+        </div>
+        
+        <div class="image-test">
+            <h2>Instagram Icon</h2>
+            <p>Path: /instagram_icon.svg</p>
+            <img src="/instagram_icon.svg" alt="Instagram Icon">
+        </div>
+        
+        <div class="image-test">
+            <h2>Debug Info</h2>
+            <p>If you see the images above, the SVG files are accessible.</p>
+            <p>If you see broken image icons, check the browser console for 404 errors.</p>
+            <p>Open DevTools (F12) and check the Console and Network tabs.</p>
+        </div>
+    </div>
+</body>
+</html>
